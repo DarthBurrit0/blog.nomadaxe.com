@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "blog.nomadaxe.com",
+  "version": "1.0.0",
+  "description": "This is where the nomad blog goes.",
+  "scripts": {
+    "test": "make test"
+  },
+  "homepage": "http://blog.nomadaxe.com",
+  "devDependencies": {
+    "surge": "^0.16.0"
+  }
+}
